@@ -10,6 +10,6 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://githubusercontent.com" width="50" alt="Pikachu running" />
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50" alt="ждем" />
   </marquee>
 </p>
